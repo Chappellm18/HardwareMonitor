@@ -1,1 +1,1 @@
-Goal: Create a application using C to monitor system hardware
+Goal: Create an application using C to monitor system hardware
